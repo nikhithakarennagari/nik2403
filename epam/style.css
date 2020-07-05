@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans' ,sans-serif;
+}
+.wrapper{
+    width: 100%;
+    height: 100vh;
+}
+.loginform{
+    background: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    max-width: 380px;
+    width: 100%;
+    height: auto;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+}
+.loginform .title{
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+    background-color: #1c8adb;
+    color: #fff;
+    margin-bottom: 20px;
+    padding: 3px;
+}
+.input-form{
+    margin-bottom: 8px;
+    position: relative;
+    padding: 10px 20px 0px 20px;
+    
+}
+.input-form .input{
+    width: 100%;
+    padding: 5px;
+}
+.btn{
+   
+    background: #1c8adb;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px 20px 10px 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+}
+.para1{
+    color: hsla(0, 1%, 39%, 0.925);
+    font-size: smaller;
+    margin-bottom: 60px;
+}
+
+.alignleft{
+    float: left; 
+    padding-left: 20px;   
+}
+.alignright{
+    float: right;
+    padding-right: 20px;
+}
+hr{
+    margin-top: 20px;
+
+}
+.or{
+    background: #fff;
+    width: 30px;
+    margin: -11px auto 15px;
+    color: hsla(0, 1%, 39%, 0.925);
+
+}
+.input-form .fas {
+    position: absolute;
+    font-size: 20px;
+    right: 30px;
+    top: 15px;
+    color: #999;
+    
+}
+.btn2{
+    background: #1c8adb;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px 20px 10px 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    color: #fff;
+}
+.btn3{
+    background: red;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px 20px 10px 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    color: #fff;
+
+}
+.btn4{
+    background:yellowgreen;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px 20px 10px 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    color: #fff;
+}
+.btn a{
+    text-decoration: none;
+    color: #fff;
+}
+.btn2 a{
+    text-decoration: none;
+    color: #fff;
+}
+.btn3 a{
+    text-decoration: none;
+    color: #fff;
+}
+.btn4 a{
+    text-decoration: none;
+    color: #fff;
+}
+.fas {
+    position: absolute;
+    font-size: 20px;
+    right: 15px;
+    top: 15px;
+    
+}
+.first .fas fa-graduation-cap{
+    position: absolute;
+    font-size: 20px;
+    left: 20px;
+    top: 15px;
+}
